@@ -2,7 +2,7 @@
 import os
 
 # API Settings
-API_KEY = "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"
+API_KEY = "upload your grop api key here"
 BASE_URL = "https://api.groq.com/openai/v1"
 MODEL = "llama-3.3-70b-versatile"
 

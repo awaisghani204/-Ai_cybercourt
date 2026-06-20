@@ -33,7 +33,7 @@ An interactive multi-agent AI simulation where LLMs battle it out in a futuristi
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR-USERNAME/ai-cyber-court.git
+git clone https://github.com/awaisghani204/-Ai_cybercourt.git
 cd ai-cyber-court
 
 # 2. Install dependencies
